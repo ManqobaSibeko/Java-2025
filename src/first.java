@@ -14,10 +14,16 @@ public class first {
 
       int valueNo = Integer.MAX_VALUE;
       byte valueNoByte = Byte.MAX_VALUE;
+      short valueNoShort = Short.MAX_VALUE;
+      long valueNoLong = Long.MAX_VALUE;
 
         System.out.println(valueNo);
 
         System.out.println(valueNoByte);
+
+        System.out.println(valueNoShort);
+        System.out.println(valueNoLong);
+        System.out.println(Long.SIZE);
 
         
 
