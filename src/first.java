@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 
 public class first {
 
@@ -25,9 +25,13 @@ public class first {
         System.out.println(valueNoLong);
         System.out.println(Long.SIZE);
 
-        
+        byte b_value  = 10;
+        short s_Value = 20;
+        int I_value = 30;
+        long l_value = 100L;
 
 
+      System.out.println( b_value + s_Value + l_value + I_value);
     }
 
 
