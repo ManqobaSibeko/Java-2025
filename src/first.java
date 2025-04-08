@@ -6,7 +6,7 @@ public class first {
 
         // ternary Operator
 
-/*        int clintAge = 67;
+/*        int clintAge = ;
 
         String ageOfClient = (clintAge > 18) ? "still a kid": "old enough";
             System.out.println(ageOfClient);
