@@ -6,10 +6,23 @@ public class first {
 
         // ternary Operator
 
-        int clintAge = 67;
+/*        int clintAge = 67;
 
         String ageOfClient = (clintAge > 18) ? "still a kid": "old enough";
             System.out.println(ageOfClient);
-        System.out.println("");
+        System.out.println("");*/
+
+      int valueNo = Integer.MAX_VALUE;
+      byte valueNoByte = Byte.MAX_VALUE;
+
+        System.out.println(valueNo);
+
+        System.out.println(valueNoByte);
+
+        
+
+
     }
+
+
 }
